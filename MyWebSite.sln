@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginMathWebSite", "MyWebSite\LoginMathWebSite.csproj", "{AB76B63A-AD78-4DA6-84B8-BF0B9EBD188E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB76B63A-AD78-4DA6-84B8-BF0B9EBD188E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB76B63A-AD78-4DA6-84B8-BF0B9EBD188E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB76B63A-AD78-4DA6-84B8-BF0B9EBD188E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB76B63A-AD78-4DA6-84B8-BF0B9EBD188E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C93E72B7-7F0C-4DDC-9EC4-EB82D878084E}
+	EndGlobalSection
+EndGlobal
